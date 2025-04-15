@@ -15,11 +15,12 @@ Whether you’re a trader, builder, or DeFi explorer, this guide will help you s
 EagleFi works seamlessly with:
 
 - **[MassaStation](https://station.massa.net)**: The native wallet for Massa enthusiasts.
-- **[Metamask](#)** (with [Massa network configured](#)): For cross-chain adventurers.  
+- **[Bearby](https://bearby.io/)**: Community-driven wallet with Massa support.
+- **[Metamask Snap](https://metamask.io/)** (with [Massa network configured](https://docs.massa.net/docs/build/wallet/metamask-snap)): For cross-chain adventurers.  
 
 **2. Fuel Up with $MAS**
 
-- **Testnet Tokens**: Get free $MAS from the [Massa Discord](https://discord.com/channels/828270821042159636/1097797634065956915) (#buildernet-faucet channel). Note: Limited to one request per day 
+- **Testnet Tokens**: Get free $MAS from the [Massa Discord](https://discord.com/channels/828270821042159636/1097797634065956915) (#buildernet-faucet channel).
 - **Mainnet Tokens**: Buy $MAS on [Bitget](https://www.bitget.com/fr/spot/MASUSDT) or [MEXC](https://www.mexc.com/) (when live).
 
 **3. Use a Modern Browser**  
@@ -39,12 +40,12 @@ Chrome, Firefox, or Brave recommended for smoothest flight.
    Approve the connection like you’d trust a fellow builder.  
 
 4. **Check Your Network**  
-   - **Testnet Pilots**: Ensure you’re on Massa Testnet.  
-   - **Mainnet Explorers**: Coming soon! (Stay tuned 🚀)  
+   - **Testnet Pilots**: Ensure you’re on Massa Buildnet.  
+   - **Mainnet Explorers**: Coming soon! (Stay tuned 🚀)
 
 ---
 
-### Step 2: Explore Your Dashboard  
+### Step 2: Explore Your Nest  
 
 Your **EagleFi Command Center** awaits:  
 
@@ -55,7 +56,7 @@ Your **EagleFi Command Center** awaits:
 
 *Tip: Hover over buttons—our UI is packed with helpful tooltips!*  
 
----
+<!-- ---
 
 ### Step 3: Fuel Your Wallet  
 
@@ -68,20 +69,21 @@ Send assets to your wallet address (visible in EagleFi’s dashboard).
 
 *Why? Because even eagles need gas to soar.* ⛽  
 
+--- -->
 ---
 
-### Next Steps: Start Soaring  
+### Next Steps: Start Soaring
 
 1. **Claim Your Wings**  
-   - Check balances in [Portfolio](#portfolio).  
-   - Swap your first tokens in [Swapping](#swapping).  
+   - Check balances in [Portfolio]([#portfolio](https://www.eaglefi.io/portfolio)).  
+   - Swap your first tokens in [Swapping]([#swapping](https://www.eaglefi.io/)).  
 
 2. **Build Your Legacy**  
-   - [Create a Token](#create-token): Launch your idea.  
-   - [Start a Pool](#pools): Earn fees as a liquidity provider.  
+   - [Create a Token]([#create-token](https://www.eaglefi.io/create-token)): Launch your idea.  
+   - [Start a Pool]([#pools](https://www.eaglefi.io/create-pool)): Earn fees as a liquidity provider.  
 
 **Stuck?**  
-Join our [Telegram](https://t.me/eaglefi) or [Discord](#)—we’re here to help!  
+Join our [Telegram](https://t.me/eaglefi_community) or [Discord]([#](https://discord.com/invite/r7hpAxVUMC))—we’re here to help!  
 
 ---
 
