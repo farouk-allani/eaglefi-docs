@@ -38,7 +38,7 @@ const config: Config = {
       title: "EagleFi",
       logo: {
         alt: "EagleFi Logo",
-        src: "img/logo header.svg",
+        src: "img/logo header.png",
       },
       items: [
         { to: "/docs/intro", label: "Docs", position: "left" },
