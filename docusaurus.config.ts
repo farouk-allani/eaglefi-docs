@@ -26,6 +26,9 @@ const config: Config = {
         },
         blog: {
           showReadingTime: true,
+          path: "blog",
+          routeBasePath: "blog",
+          include: ["**/*.{md,mdx}"],
         },
         theme: {
           customCss: "./src/css/custom.css",

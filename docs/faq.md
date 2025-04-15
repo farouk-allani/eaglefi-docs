@@ -16,20 +16,21 @@ Massa isn’t just fast (10,000+ TPS fast 🚀)—it’s one of the most decentr
 
 ### 💼 Wallets & Security
 
-**Which wallets work with EagleFi?**  
+**Which wallets work with EagleFi?**
+
 - **MassaStation**: The go-to wallet for Massa purists.  
-- **MetaMask**: For cross-chain travelers (with [Massa network configured](#)).  
+- **MetaMask**: For cross-chain travelers (with [Massa network configured](https://docs.massa.net/docs/build/wallet/metamask-snap)).  
 *No shady extensions. No compromises. Your keys, your crypto.*  
 
 **Is EagleFi safe?**  
-We treat your funds like our own. All contracts are audited, open-source, and battle-tested. Still paranoid? (Good! You should be.) [Read the code yourself](#github).  
+We treat your funds like our own. All contracts are audited, open-source, and battle-tested. Still paranoid? (Good! You should be.) [Read the code yourself](https://github.com/NaDasai/eagle-finance).  
 
 ---
 
 ### 🔄 Swaps & Pools
 
 **What’s impermanent loss?**  
-It’s the temporary loss you *might* face if token prices in a pool shift. Think of it like turbulence—manageable if you’re prepared. [Learn to navigate it here](#pools).  
+It’s the temporary loss you *might* face if token prices in a pool shift. Think of it like turbulence—manageable if you’re prepared. [Learn to navigate it here](/docs/pools.md).  
 
 **What fees does EagleFi charge?**
 
@@ -47,10 +48,10 @@ Earn fees passively *and* support the tokens you believe in. Plus, you’ll earn
 
 - Check your gas fees (Massa’s are low, but not zero).  
 - Refresh the page. Yes, really—it works 90% of the time.  
-- Still stuck? [Howl for help on Discord](https://discord.gg/eaglefi).  
+- Still stuck? [Howl for help on Discord](https://discord.com/invite/r7hpAxVUMC).  
 
 **When is mainnet launching?**  
-When it’s ready. We’re perfectionists—no rushed code here. [Follow our X](https://x.com/eaglefi) for updates.  
+When it’s ready. We’re perfectionists—no rushed code here. [Follow our X](https://x.com/Eaglefi_Massa) for updates.  
 
 ---
 
@@ -59,7 +60,7 @@ When it’s ready. We’re perfectionists—no rushed code here. [Follow our X](
 **How can I support EagleFi?**
 
 - **Spread the word**: Tweet, meme, or tell your cat about us.
-- **Build with us**: Got ideas? [Propose them on GitHub](#).
+- **Build with us**: Got ideas? [Propose them on GitHub](https://github.com/NaDasai/eagle-finance/issues).
 - **Stay critical**: Found a bug? Report it. We’ll love you forever.  
 
 **Who’s behind EagleFi?**  
@@ -68,9 +69,10 @@ Three caffeine-fueled developers from Tunisia, a few thousand lines of code, and
 ---
 
 *Still have questions?*  
-**We’re here 24/7** (okay, *almost* 24/7):  
-- [X (Twitter)](https://x.com/eaglefi)  
-- [Discord](https://discord.gg/eaglefi)  
-- [Telegram](https://t.me/eaglefi)  
+**We’re here 24/7** (okay, *almost* 24/7):
+
+- [X (Twitter)](https://x.com/Eaglefi_Massa)
+- [Discord](https://discord.com/invite/r7hpAxVUMC)  
+- [Telegram](https://t.me/eaglefi_community)  
 
 *No bots. No copy-paste replies. Just humans who care.* ✨

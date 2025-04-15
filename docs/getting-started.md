@@ -75,15 +75,15 @@ Send assets to your wallet address (visible in EagleFi’s dashboard).
 ### Next Steps: Start Soaring
 
 1. **Claim Your Wings**  
-   - Check balances in [Portfolio]([#portfolio](https://www.eaglefi.io/portfolio)).  
-   - Swap your first tokens in [Swapping]([#swapping](https://www.eaglefi.io/)).  
+   - Check balances in [Portfolio](https://www.eaglefi.io/portfolio).  
+   - Swap your first tokens in [Swapping](https://www.eaglefi.io/).  
 
 2. **Build Your Legacy**  
-   - [Create a Token]([#create-token](https://www.eaglefi.io/create-token)): Launch your idea.  
-   - [Start a Pool]([#pools](https://www.eaglefi.io/create-pool)): Earn fees as a liquidity provider.  
+   - [Create a Token](https://www.eaglefi.io/create-token): Launch your idea.  
+   - [Start a Pool](https://www.eaglefi.io/create-pool): Earn fees as a liquidity provider.  
 
 **Stuck?**  
-Join our [Telegram](https://t.me/eaglefi_community) or [Discord]([#](https://discord.com/invite/r7hpAxVUMC))—we’re here to help!  
+Join our [Telegram](https://t.me/eaglefi_community) or [Discord](https://discord.com/invite/r7hpAxVUMC)—we’re here to help!  
 
 ---
 
