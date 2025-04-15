@@ -12,7 +12,7 @@ const sidebars: SidebarsConfig = {
         "token-creation",
         "pools",
         "swapping",
-        "swap-widget-creator",
+        "swap-widget",
         "faq",
       ],
     },

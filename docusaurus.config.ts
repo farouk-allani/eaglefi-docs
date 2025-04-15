@@ -8,7 +8,8 @@ const config: Config = {
   baseUrl: "/",
   favicon: "img/favicon.ico",
   organizationName: "eaglefi", // Your GitHub org or username
-  projectName: "eaglefi-docs",
+  projectName: "eaglefi",
+  trailingSlash: false,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   i18n: {
@@ -71,7 +72,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} EagleFi. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} EagleFi. Built with ❤️ by the EagleFi Team.`,
     },
     prism: {
       theme: prismThemes.github,

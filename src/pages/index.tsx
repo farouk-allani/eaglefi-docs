@@ -49,7 +49,7 @@ export default function Home(): ReactNode {
       <main>
         <section className={styles.features}>
           <div className="container">
-            <div className="row">
+            {/* <div className="row">
               <div className="col col--8 col--offset-2">
                 <div className="text--center padding-vert--xl">
                   <h2 className="text--primary">Why EagleFi?</h2>
@@ -61,7 +61,7 @@ export default function Home(): ReactNode {
                   </p>
                 </div>
               </div>
-            </div>
+            </div> */}
             <HomepageFeatures />
             <div className="row padding-vert--xl">
               <div className="col col--6">
