@@ -36,7 +36,7 @@ Whether you're launching a new project on Massa, building a community token, or 
   - Cannot contain special sequence "||"
   - Will be publicly visible
   
-  ![Token name](/img/token_name.PNG)
+  ![Token name](/img/token_name.png)
 
 - **Token Symbol**  
   *Example: "EGL"*  
@@ -44,7 +44,7 @@ Whether you're launching a new project on Massa, building a community token, or 
   - No numbers or special characters
   - Primary identifier for trading
   
-  ![Token symbol](/img/T_symbol.JPG)
+  ![Token symbol](/img/T_symbol.jpg)
 
 <!-- ![Core Information Section](screenshot-core-fields.png) -->
 
@@ -57,7 +57,7 @@ Whether you're launching a new project on Massa, building a community token, or 
   - Maximum: 10<sup>24</sup> tokens
   - Decimals automatically set to 18
   
-  ![Token supply](/img/T_supply.JPG)
+  ![Token supply](/img/T_supply.jpg)
 
 <!-- *Pro Tip: Use commas for readability (e.g., 1,000,000)* -->
 
@@ -83,20 +83,20 @@ Enable special capabilities through checkboxes:
   - Markdown supported
   - Appears in token explorer
   
-  ![Token description](/img/T_description.JPG)
+  ![Token description](/img/T_description.jpg)
   
 - **Logo URL**  
   - HTTPS URL to PNG/SVG image
   - Recommended: 256x256px
   - Hosted on permanent storage (IPFS recommended)
   
-  ![Token logo](/img/T_url.JPG)
+  ![Token logo](/img/T_url.jpg)
   
 - **Website**  
   - Official project URL
   - Must include https://
   
-  ![Token website](/img/T_website.JPG)
+  ![Token website](/img/T_website.jpg)
 
 <!-- ![Branding Section](screenshot-branding.png) -->
 
@@ -107,7 +107,7 @@ Enable special capabilities through checkboxes:
 3. Approve wallet transaction
 4. Wait for blockchain confirmation
 
-![Transaction confirmation](/img/T_success.PNG)
+![Transaction confirmation](/img/T_success.png)
 
 - Congratulations, your token has been created!
 

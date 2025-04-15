@@ -49,7 +49,7 @@ Launch trading pairs and become a liquidity provider on EagleFi's decentralized 
 - Enter Token A's USD price
 - Token B (WMAS) amount auto-calculates
 
-![Price Input](/img/Price_per_T.PNG)
+![Price Input](/img/Price_per_T.png)
 
 #### Initial Liquidity
 
@@ -69,7 +69,7 @@ Choose from four fee structures:
 | 0.3%           | Most MRC-20 pairs (Default)  | Balanced risk/reward    |
 | 1%             | Exotic/illiquid tokens       | High impermanent loss   |
 
-![Fee Selection](/img/Trading_fees.PNG)
+![Fee Selection](/img/Trading_fees.png)
 
 ### 5. Pool Validation
 
@@ -88,7 +88,7 @@ Our system automatically checks for:
    - Pool creation transaction
 3. Wait for blockchain confirmation
 
-![Transaction Approval](/img/create_pool.PNG)
+![Transaction Approval](/img/create_pool.png)
 
 ## Post-Creation Actions
 
