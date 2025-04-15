@@ -17,7 +17,7 @@ EagleFi's Swap Widget lets you embed decentralized trading directly into your we
 1. Go to [EagleFi.io/swap-widget-creator](https://www.eaglefi.io/swap-widget-creator) 
 2. Connect your wallet ([See how](./getting-started))  
 
-![Widget Creator Interface](./swap%20widget%20creator.PNG)
+![Widget Creator Interface](./swap_widget_creator.PNG)
 
 ---
 
@@ -26,14 +26,14 @@ EagleFi's Swap Widget lets you embed decentralized trading directly into your we
 **Select Tokens**
 
 - **From Token**: Choose default "From" token
-- **To Token**: Choose default "To" token 
+- **To Token**: Choose default "To" token
 
 **Lock Settings**
 
 - 🔒 **Fix From Token**: Force users to swap from specific token
 - 🔒 **Fix To Token**: Force swap to specific token
 
-![Token Configuration](./fix%20from%20and%20to.PNG)  
+![Token Configuration](./fix_from_and_to.PNG)  
 
 ---
 
@@ -56,7 +56,7 @@ EagleFi's Swap Widget lets you embed decentralized trading directly into your we
 
 Here's how the widget will appear on your website:
 
-![Embedded Widget Preview](./iframe%20final.PNG)
+![Embedded Widget Preview](./iframe_final.PNG)
 
 Key features visible in the embedded widget:
 

@@ -18,7 +18,7 @@ Launch trading pairs and become a liquidity provider on EagleFi's decentralized 
 2. Select **Create Pool**
 3. Connect your Massa Wallet if not already connected
 
-![Pool Navigation](./Access%20P.png)
+![Pool Navigation](./Access_P.png)
 
 ### 2. Select Token Pair
 
@@ -31,14 +31,14 @@ Launch trading pairs and become a liquidity provider on EagleFi's decentralized 
   - Verify token details
 - Cannot be WMAS/MAS
   
-![Token A Selection](./T%20A.png)
+![Token A Selection](./T_A.png)
 
 #### Token B (WMAS Default)
 
 - Automatically set to WMAS (Wrapped MASSA)
 - Can switch to MAS (native currency) if needed
   
-  ![Token B Selection](./T%20B.png)
+  ![Token B Selection](./T_B.png)
 
 <!-- ![Token Selection](screenshot-token-selection.png) -->
 
@@ -49,7 +49,7 @@ Launch trading pairs and become a liquidity provider on EagleFi's decentralized 
 - Enter Token A's USD price
 - Token B (WMAS) amount auto-calculates
 
-![Price Input](./Price%20per%20T.PNG)
+![Price Input](./Price_per_T.PNG)
 
 #### Initial Liquidity
 
@@ -69,7 +69,7 @@ Choose from four fee structures:
 | 0.3%           | Most MRC-20 pairs (Default)  | Balanced risk/reward    |
 | 1%             | Exotic/illiquid tokens       | High impermanent loss   |
 
-![Fee Selection](./Trading%20fees.PNG)
+![Fee Selection](./Trading_fees.PNG)
 
 ### 5. Pool Validation
 
@@ -88,7 +88,7 @@ Our system automatically checks for:
    - Pool creation transaction
 3. Wait for blockchain confirmation
 
-![Transaction Approval](./create%20pool.PNG)
+![Transaction Approval](./create_pool.PNG)
 
 ## Post-Creation Actions
 
