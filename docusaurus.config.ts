@@ -4,10 +4,10 @@ import type { Config } from "@docusaurus/types";
 const config: Config = {
   title: "EagleFi Docs",
   tagline: "Your Decentralized Exchange on Massa Blockchain",
-  url: "https://docs.eaglefi.io", // Update later with your domain
+  url: "https://docs.eaglefi.io",
   baseUrl: "/",
   favicon: "img/favicon.ico",
-  organizationName: "eaglefi", // Your GitHub org or username
+  organizationName: "eaglefi",
   projectName: "eaglefi",
   trailingSlash: false,
   onBrokenLinks: "throw",
@@ -34,7 +34,7 @@ const config: Config = {
     ],
   ],
   themeConfig: {
-    image: "img/eaglefi-social-card.jpg", // Add a social card image if you have one
+    image: "img/logo header.png",
     navbar: {
       title: "EagleFi",
       logo: {
@@ -56,19 +56,28 @@ const config: Config = {
       links: [
         {
           title: "Docs",
-          items: [{ label: "Introduction", to: "/docs/intro" }],
+          items: [
+            {
+              label: "Getting Started",
+              to: "/docs/intro",
+            },
+          ],
         },
         {
           title: "Community",
           items: [
-            { label: "X", href: "https://x.com/eaglefi" }, // Update with your X handle
-            { label: "Discord", href: "https://discord.gg/eaglefi" }, // Update if applicable
+            { label: "X", href: "https://x.com/Eaglefi_Massa" },
+            { label: "Discord", href: "https://discord.com/invite/r7hpAxVUMC" },
+            { label: "Telegram", href: "https://t.me/eaglefi_community" },
           ],
         },
         {
           title: "More",
           items: [
-            { label: "GitHub", href: "https://github.com/eaglefi" }, // Update with your repo
+            {
+              label: "GitHub",
+              href: "https://github.com/NaDasai/eagle-finance",
+            },
           ],
         },
       ],
